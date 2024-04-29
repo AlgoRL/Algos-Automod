@@ -1,0 +1,1 @@
+with open('reports_log.json', 'w') as f: f.write("{ }")

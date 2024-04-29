@@ -1,2 +1,4 @@
-# Algos-Automod
-Rewrite of the AlgoModModeratorBot for Algo's Front End Discord servers
+# new-mod-bot
+AlgoModModeratorBot Rewrite Repo!!!
+
+(Add testing/ and commands/)
